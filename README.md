@@ -23,6 +23,6 @@ You can delete a pack by clicking the button and giving the name.
 
 You can delete a mod by giving the path via the Delete mod button.
 
-To put your pack into Minecraft you should click the Choose Pack button than give the name of the pack. (You can put more than one pack in.)
+To put your pack into Minecraft you should click the Choose Pack button than give the name of the pack. (You can put more than one pack in, you should put the pack in every time you put a new mod in it or removed a mod from it!!)
 
 To Unchoose a pack, click the button and give the name of it.
