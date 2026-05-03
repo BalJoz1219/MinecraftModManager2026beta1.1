@@ -1,4 +1,5 @@
-THE MODS HITBOX IS A LITTLEBIT UNDER THEIR TEXT!!! (Will be fixed later! Hopefully...)
+THE MOD'S HITBOX IS A LITTLEBIT UNDER THEIR TEXT!!! (Will be fixed later! Hopefully...)
+BUG FIXED: No need to delete the string while adding a mod or changing the mod folder path.
 
 Help: 
 
@@ -6,10 +7,10 @@ First: You should run it when the Windows Defender popped up. You can check the 
 
 Second: You have to give the manager the mod's path folder via the Change mod folder path button, the mods folder is
 in the .minecraft folder, you can access it with Windows+R, than type %appdata%, into the .minecraft folder,
-than Control+Shift+C, it should look like this: "C:\\Your_Files\\AppData\\.minecraft\\mods", you should delete the strings on the front and on the end.
+than Control+Shift+C, it should look like this: "C:\\Your_Files\\AppData\\.minecraft\\mods".
 
 If you want to upload a mod into the manager you should use the path to the mod, you can do  it with Shift+Control+C, it should look like this when you copy
-it into the input: "C:\\Your_Files\\Downloads\\The_Mod", you should delete the two strings to add it.
+it into the input: "C:\\Your_Files\\Downloads\\The_Mod".
 
 You can make a pack, by clicking the button and nameing it as you want. Than add the mods.
 
